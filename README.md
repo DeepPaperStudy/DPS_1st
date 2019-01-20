@@ -4,6 +4,12 @@
 
 * Object Detction, Semantic Segmentation, Architectures.
 
+## 파일 업로드 규칙
+
+* 파일 형식 : .pdf , .md
+* 파일 이름 : 논문제목 (ex: VGG.pdf , VGG.md)
+
+
 ### Paper CheckList
 
 ## Architecture
