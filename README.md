@@ -7,32 +7,32 @@
 ### Paper CheckList
 
 ## Architecture
--[ ] ZFNet
--[ ] VGG
--[ ] Inception v1
--[ ] ResNet
--[ ] Xception
--[ ] DenseNet
--[ ] SENet
+-[X]VGG
+-[X]Inception v1
+-[X]ResNet
+-[ ]Inception v2, v3, v4
+-[ ]Xception
+-[ ]DenseNet
+-[ ]SENet
 
 ## Semantic Segmentation
--[ ] FCN
--[ ] SegNet
--[ ] UNet
--[ ] PSPNet
--[ ] DeepLab
--[ ] ICNet
--[ ] ENet
+-[ ]FCN
+-[ ]SegNet
+-[ ]UNet
+-[ ]PSPNet
+-[ ]DeepLab
+-[ ]ICNet
+-[ ]ENet
 
 ## Object Detection 
--[ ] RCNN
--[ ] Fast-RCNN
--[ ] Faster-RCNN
--[ ] mask-RCNN
--[ ] YOLO v1
--[ ] YOLO v2
--[ ] YOLO v3
--[ ] SSD
--[ ] Retinanet
+-[ ]RCNN
+-[ ]Fast-RCNN
+-[ ]Faster-RCNN
+-[ ]mask-RCNN
+-[ ]YOLO v1
+-[ ]YOLO v2
+-[ ]YOLO v3
+-[ ]SSD
+-[ ]Retinanet
 
 
