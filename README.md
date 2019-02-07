@@ -19,7 +19,7 @@
 - [ ] Inception v2, v3, v4  
 - [ ] Xception  
 - [ ] DenseNet  
-- [ ] SENet  
+- [X] SENet  
 
 ## Semantic Segmentation
 - [ ] FCN  
