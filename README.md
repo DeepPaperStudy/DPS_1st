@@ -16,27 +16,21 @@
 - [X] VGG  
 - [X] Inception v1  
 - [X] ResNet  
-- [ ] Inception v2, v3, v4  
-- [ ] Xception  
-- [ ] DenseNet  
+- [X] ResNext  
+- [X] DenseNet  
 - [X] SENet  
 
 ## Semantic Segmentation
 - [ ] FCN  
 - [ ] SegNet  
-- [ ] UNet  
+- [X] UNet  
 - [ ] PSPNet  
-- [ ] DeepLab  
-- [ ] ICNet  
-- [ ] ENet  
+- [X] DeepLab  
 
 ## Object Detection 
 - [ ] RCNN  
 - [ ] Fast-RCNN  
 - [ ] Faster-RCNN  
 - [ ] Mask-RCNN  
-- [ ] YOLO v1  
-- [ ] YOLO v2  
-- [ ] YOLO v3  
-- [ ] SSD  
-- [ ] Retinanet  
+- [X] YOLO v1  
+- [X] YOLO v2  
